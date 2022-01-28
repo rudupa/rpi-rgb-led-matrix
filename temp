@@ -1,0 +1,1 @@
+sudo ./clock --led-cols=64 --led-rows=32 --led-chain=2 --led-pixel-mapper="U-mapper" -f ../fonts/4x6.bdf -d '%m/%d %H:%M:%S' - C 239,127,49
